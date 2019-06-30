@@ -3,3 +3,5 @@ feature 2
 Feature 3
 
 Feature X 1 
+
+Feature X 2
